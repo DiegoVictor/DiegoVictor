@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-<img align='left' width="100px" src="https://instagram.fcpq2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/110732545_962691720838410_8797166308550533274_n.jpg?_nc_ht=instagram.fcpq2-1.fna.fbcdn.net&_nc_ohc=uRHSpXSeNYIAX-5bWzB&oh=737ee763b4b5670e7b2ed3205da2bf5c&oe=5F522B58" />
+<img align='left' width="100px" src="https://raw.githubusercontent.com/DiegoVictor/DiegoVictor/master/github.png" />
 </p>
 
 Hi! How are you? I'm a developer that loves create new things! Let's create something together? 🔨 Currently I'm learning and trying to expand my knowledge in Node.js, ReactJS and React Native 🤓📖, but I already worked with PHP for a few years. I also love animes, so soon I will try develop more things related to it.
