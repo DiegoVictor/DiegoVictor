@@ -1,16 +1,17 @@
 ### Hi there 👋
+<p>
+<img align='left' width="100px" src="https://instagram.fcpq2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/110732545_962691720838410_8797166308550533274_n.jpg?_nc_ht=instagram.fcpq2-1.fna.fbcdn.net&_nc_ohc=uRHSpXSeNYIAX-5bWzB&oh=737ee763b4b5670e7b2ed3205da2bf5c&oe=5F522B58" />
+</p>
 
-<!--
-**DiegoVictor/DiegoVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! How are you? I'm a developer that loves create new things! Let's create something together? 🔨 Currently I'm learning and trying to expand my knowledge in Node.js, ReactJS and React Native 🤓📖, but I already worked with PHP for a few years. I also love animes, so soon I will try develop more things related to it.
+</br>
+</br>
+ 
+#### 👯 PRs
+All my repos are PR welcome, so fell free to contribute! But if you want some hints to choose one:
 
-Here are some ideas to get you started:
+* [Pipedeals](https://github.com/DiegoVictor/pipedeals)
+> I particularly love this project ❤, is a API built in `Node.js`, `Redis` and `MongoDB`, I implemented many `Rest API`'s good practices and integrated with [Pipedrive](https://www.pipedrive.com) and [Bling](https://www.bling.com.br), also the project is 100% covered by tests ([Jest](https://jestjs.io)) and it has a complete README with instructions to start the project easly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [iHeros](https://github.com/DiegoVictor/iheroes)
+> This project has the back-end built with `Node.js` and `MongoDB`, the front-end uses `ReactJS`. Is "A system to manage city' heros and monsters", basically the system choose a compatible Hero to fight with the monster that appears in the city, take a look!
